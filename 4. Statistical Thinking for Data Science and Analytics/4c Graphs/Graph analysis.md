@@ -1,0 +1,5 @@
+Graph: http://www.slate.com/content/dam/slate/blogs/moneybox/2014/05/22/revenge_of_the_nerds_your_high_school_grades_predict_what_you_ll_earn_as/earnings_gpa_final_1.png.CROP.promovar-mediumlarge.png
+
+Inspired by the "Income vs Grades" example, I looked up some graphs and this is one I found interesting. It is important because it conveys the message that higher grades (GPA) correlate with higher incomes. This does not necessarily imply causation, but the association between the variables is strong. It also shows women in general tend to have lower incomes than men. This is important because in all samples men and women with the same GPA scores receive different incomes. Whether this is caused by a "gender gap" or something else might be the question of another study.
+
+I would prefer to see a line diagram instead of a bar chart. Although GPA is a categorical variable, lines tend to present the links between categories better. And it will also be useful to have additional knowledge about the data and the parameters of the study, such as participants age, jobs, etc. Access to the original dataset will also be useful.
