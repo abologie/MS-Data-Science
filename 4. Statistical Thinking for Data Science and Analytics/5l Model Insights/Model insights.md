@@ -1,0 +1,2 @@
+* Consider a model like the one described, in which we incorporate a variable that reflects whether a week corresponds with a holiday season. Let us assume that the posterior mean is 40 and the 95% posterior interval is [25,70]. The manager wants to know how much sales she is expected to have on the following holiday. What would your answer be? 
+	* Based on the data, I am 95% confident that sales will increase between 25 and 70 units; and they are most likely to increase by 40 units
