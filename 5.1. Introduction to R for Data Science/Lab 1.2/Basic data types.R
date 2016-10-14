@@ -45,9 +45,6 @@ class(var2_log)
   var3_num = as.numeric(var3)
   
 # Coercion for the sake of cleaning
-age = "29"
-employed = 1
-salary = "63394.12"
 # Convert age to numeric: age_clean
 age_clean = as.numeric(age)
 
